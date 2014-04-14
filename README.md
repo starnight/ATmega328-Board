@@ -2,7 +2,7 @@ ATMega328 Board
 ===============
 
 The ATMega8/48/88/168/328-(P)(A) minimal development board
-![Real Board](https://github.com/starnight/ATmega328-Board/blob/master/Real_Board.jpg)
+![Real Board](https://raw.githubusercontent.com/starnight/ATmega328-Board/master/Real_Board.jpg)
 
 Datasheet
 =========
