@@ -2,6 +2,7 @@ ATMega328 Board
 ===============
 
 The ATMega8/48/88/168/328-(P)(A) minimal development board
+![Real Board](https://github.com/starnight/ATmega328-Board/blob/master/Real_Board.jpg)
 
 Datasheet
 =========
@@ -17,4 +18,4 @@ Connect P2 with a serial downloading tool, USBasp for example, if program by ser
 License
 =======
 
-ATMega328-Board's Hardware, Documents & Files, Software use the BSD license, see our 'LICENSE.md' file.
+ATMega328-Board's Hardware, Documents & Files, Software use the BSD license, see our '[LICENSE.md](https://github.com/starnight/ATmega328-Board/blob/master/LICENSE.md)' file.
